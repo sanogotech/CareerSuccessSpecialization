@@ -36,6 +36,45 @@ Bienvenue dans le module 1 de "Travailler Plus Intelligemment, Pas Plus Durement
 | **Matrice d'Eisenhower** | Hiérarchisation des tâches par urgence et importance   | Clarté des priorités, Gestion du temps     |
 | **ABCDE Method**     | Classement des tâches de A (très important) à E (sans importance) | Focus sur les tâches prioritaires           |
 
+Voici une explication détaillée de la méthode ABCDE avec les significations ajoutées entre parenthèses :
+
+##### Méthode ABCDE : Priorisation des Tâches
+
+###### 1. **Classement des Tâches**
+
+- **A (Très Important) :** Ce sont les tâches cruciales qui ont un impact direct sur les objectifs à long terme. Elles nécessitent une attention immédiate et doivent être accomplies sans délai.
+  - Exemples : Réunions stratégiques, livrables critiques, résolution de problèmes urgents.
+
+- **B (Important) :** Les tâches importantes mais moins urgentes que celles de la catégorie A. Elles contribuent significativement aux objectifs à moyen terme et doivent être planifiées soigneusement.
+  - Exemples : Préparation de rapports périodiques, développement de nouvelles compétences, planification de projets à court terme.
+
+- **C (Moyen) :** Les tâches qui sont nécessaires mais n'ont pas un impact immédiat sur les objectifs principaux. Elles peuvent souvent être déléguées ou planifiées pour plus tard.
+  - Exemples : Réponses aux courriels non urgents, participations à des réunions de suivi, tâches administratives de routine.
+
+- **D (Déléguer) :** Tâches qui peuvent être déléguées à d'autres membres de l'équipe ou à des collègues, car elles ne nécessitent pas une attention personnelle immédiate.
+  - Exemples : Tâches administratives simples, préparation de documents de base, collecte de données de base.
+
+- **E (Éliminer) :** Tâches qui n'ajoutent aucune valeur significative et qui peuvent être supprimées ou évitées. Cela peut inclure des distractions et des activités non productives.
+  - Exemples : Surfer sur les réseaux sociaux sans but précis, procrastination non productive, activités non liées aux objectifs professionnels.
+
+###### 2. **Avantages de la Méthode ABCDE**
+
+- **Clarté des Priorités :** La méthode ABCDE aide à clarifier ce qui est réellement important parmi toutes les tâches à accomplir.
+- **Gestion du Temps :** Elle permet de réduire le temps consacré aux activités de faible valeur et d'optimiser l'utilisation du temps pour les tâches critiques.
+- **Focus sur les Objectifs :** En se concentrant sur les tâches A et B, on s'assure que les efforts sont alignés avec les objectifs stratégiques à long terme.
+
+##### Exemple d'Application
+
+Supposons que vous avez une journée de travail chargée. Voici comment vous pourriez utiliser la méthode ABCDE pour prioriser vos tâches :
+
+- **A :** Préparer le rapport trimestriel pour la direction.
+- **B :** Finaliser la proposition client pour un projet à venir.
+- **C :** Répondre aux courriels non urgents et planifier une réunion d'équipe.
+- **D :** Développer un premier brouillon d'une présentation pour une réunion future.
+- **E :** Vérifier les notifications de médias sociaux pendant les pauses prévues.
+
+En appliquant la méthode ABCDE, vous pouvez structurer efficacement votre journée en vous concentrant sur ce qui est essentiel pour atteindre vos objectifs professionnels, tout en minimisant les distractions et les activités non productives.
+
 #### Partie 3 : Principes de Base de la Planification du Temps
 
 **1. Planification Structurée**
