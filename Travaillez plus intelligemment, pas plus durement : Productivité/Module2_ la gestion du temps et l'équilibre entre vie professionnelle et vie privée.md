@@ -1,5 +1,6 @@
 ### Module 2: Travailler plus intelligemment, pas plus durement : la gestion du temps et l'équilibre entre vie professionnelle et vie privée
 
+
 #### Introduction
 Bienvenue dans le module 2 de notre cours sur la gestion du temps et l'équilibre entre vie professionnelle et vie privée. Dans ce module, nous explorerons divers aspects de la gestion de votre vie quotidienne pour optimiser votre productivité et votre satisfaction personnelle.
 
