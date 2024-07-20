@@ -1,4 +1,18 @@
 
+# Tableau 0 : Généralités sur les Finances pour Non-Financiers
+
+| **Aspect**                    | **Description**                                                                                   | **Exemples**                                               | **Concepts Clés**                            | **Outils/ Méthodes**                       | **Top 3 Équations**                            |
+|-------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------|-------------------------------------------|------------------------------------------------|
+| **Introduction à la Finance** | Compréhension des principes de base de la finance et de leur importance dans les affaires.         | Budget d'entreprise, états financiers, gestion de trésorerie | Finances d'entreprise, États Financiers       | Documents Financiers, Principes Comptables | -                                              |
+| **Équation Comptable**        | Fondement de la comptabilité, exprimant la relation entre les actifs, les passifs et les capitaux propres. | Actifs = Passifs + Capitaux Propres                        | Actifs, Passifs, Capitaux Propres             | Balance Comptable, États Financiers        | 1. Actifs = Passifs + Capitaux Propres <br> 2. Capitaux Propres = Actifs - Passifs <br> 3. Passifs = Actifs - Capitaux Propres |
+| **Principes Comptables Généraux** | Règles et normes établies pour assurer la cohérence et la transparence des informations financières.    | GAAP (Generally Accepted Accounting Principles)            | Normes Comptables, Transparence, Cohérence   | Normes Comptables, Régulations Financières | -                                              |
+| **Types d'États Financiers**  | Documents financiers clés fournissant des informations sur la performance et la situation financière. | Bilan, Compte de Résultat, Tableau des Flux de Trésorerie    | Bilan, Compte de Résultat, Flux de Trésorerie | Analyse des États Financiers                | -                                              |
+| **Objectifs de la Gestion Financière** | Maximiser la valeur de l'entreprise pour les actionnaires en gérant efficacement les ressources.        | Gestion des investissements, financement, optimisation des coûts | Rentabilité, Croissance, Risque              | Planification Financière, Gestion des Risques | -                                              |
+
+---
+
+Ce tableau présente les bases des finances pour ceux qui ne sont pas spécialisés dans le domaine, en fournissant des explications claires, des exemples, des concepts clés, des outils et des méthodes, ainsi que les équations fondamentales pour comprendre la comptabilité.
+
 # Tableau 1 : Calcul des Coûts
 
 | **Aspect**                | **Description**                                                                                   | **Exemples**                                               | **Concepts Clés**                              | **Outils/ Méthodes**                       | **Top 3 Équations**                              |
