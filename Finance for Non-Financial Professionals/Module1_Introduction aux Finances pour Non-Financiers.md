@@ -33,8 +33,8 @@ Supposons une entreprise a les éléments suivants :
 Les capitaux propres peuvent être calculés comme suit :
 
 ```
-\[ \text{Capitaux Propres} = \text{Actifs} - \text{Passifs} \]
-\[ \text{Capitaux Propres} = 100 000 \, \$ - 60 000 \, \$ = 40 000 \, \$ \]
+{Capitaux Propres} = \text{Actifs} - \text{Passifs}
+{Capitaux Propres} = 100 000 \, \$ - 60 000 \, \$ = 40 000 \, \$ \]
 ```
 
 **Tableau 1 : Exécution de l'Équation Comptable**
