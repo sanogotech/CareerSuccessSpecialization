@@ -13,7 +13,11 @@ L'équation comptable est le fondement de la comptabilité financière. Elle exp
 
 **Équation Comptable :**
 
-\[ \text{Actifs} = \text{Passifs} + \text{Capitaux Propres} \]
+
+```
+{Actifs} = {Passifs} + {Capitaux Propres}
+```
+
 
 Cette équation montre que tout ce que possède l'entreprise (actifs) est financé soit par des dettes (passifs) soit par les fonds apportés par les propriétaires (capitaux propres). La compréhension de cette équation est essentielle car elle permet de mesurer la santé financière d'une entreprise.
 
@@ -21,13 +25,17 @@ Cette équation montre que tout ce que possède l'entreprise (actifs) est financ
 
 Supposons une entreprise a les éléments suivants :
 
+ ```
 - Actifs : 100 000 $
 - Passifs : 60 000 $
+```
 
 Les capitaux propres peuvent être calculés comme suit :
 
+```
 \[ \text{Capitaux Propres} = \text{Actifs} - \text{Passifs} \]
 \[ \text{Capitaux Propres} = 100 000 \, \$ - 60 000 \, \$ = 40 000 \, \$ \]
+```
 
 **Tableau 1 : Exécution de l'Équation Comptable**
 
