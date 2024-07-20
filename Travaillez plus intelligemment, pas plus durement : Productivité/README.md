@@ -1,6 +1,5 @@
 
-# Travaillez plus intelligemment, pas plus durement : La gestion du temps au service de la productivité personnelle et ...0 % Progrès globaux
-
+# Travaillez plus intelligemment, pas plus durement : La gestion du temps au service de la productivité personnelle
 
 ### Cours Complet : Travaillez Plus Intelligemment, Pas Plus Durement : La Gestion du Temps au Service de la Productivité Personnelle
 
