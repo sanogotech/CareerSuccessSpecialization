@@ -12,20 +12,20 @@ La méthode du coût direct ne prend en compte que les coûts directement liés 
 
 #### Exemple
 
-Supposons une entreprise fabrique des widgets. Les coûts directs incluent :
+Supposons qu'une entreprise fabrique des widgets. Les coûts directs incluent :
 
 - Matières premières : 2 $ par unité
 - Main-d'œuvre directe : 3 $ par unité
 
 Si l'entreprise produit 1 000 widgets, le coût direct total est :
 
-``` 
+```
 Coût Direct Total = (2 $ + 3 $) × 1 000 = 5 000 $
 ```
 
 ### 2.1.2 Coût Indirect (Coût Fixe)
 
-Les coûts indirects, ou coûts fixes, sont des coûts qui ne varient pas avec le niveau de production, comme le loyer, les salaires des cadres, et les frais administratifs.
+Les coûts indirects, ou coûts fixes, sont des coûts qui ne varient pas avec le niveau de production, comme le loyer, les salaires des cadres et les frais administratifs.
 
 #### Exemple
 
@@ -39,7 +39,7 @@ La méthode du coût complet inclut à la fois les coûts directs et indirects p
 
 Si l'entreprise produit 1 000 widgets avec des coûts directs de 5 000 $ et des coûts fixes de 30 000 $ :
 
-``` 
+```
 Coût Complet Total = 5 000 $ + 30 000 $ = 35 000 $
 ```
 
@@ -66,7 +66,7 @@ Une entreprise alloue les coûts indirects suivants en fonction des activités :
 
 Si l'activité de production utilise 70 % de la supervision et 50 % de la maintenance :
 
-``` 
+```
 Coûts Indirects Alloués = (10 000 $ × 0.7) + (5 000 $ × 0.5) = 7 000 $ + 2 500 $ = 9 500 $
 ```
 
@@ -78,14 +78,14 @@ La répartition traditionnelle alloue les coûts indirects en fonction de critè
 
 Si une entreprise utilise 10 000 heures de main-d'œuvre directe et les coûts indirects totaux sont de 50 000 $ :
 
-``` 
-Taux d'Allocation = \frac{50 000 $}{10 000 heures} = 5 $ / heure
+```
+Taux d'Allocation = 50 000 $ / 10 000 heures = 5 $/heure
 ```
 
 Si un produit utilise 2 000 heures de main-d'œuvre directe, les coûts indirects alloués sont :
 
-``` 
-2 000 heures × 5 $ / heure = 10 000 $
+```
+2 000 heures × 5 $/heure = 10 000 $
 ```
 
 **Tableau 2 : Répartition des Coûts par Méthode**
@@ -103,8 +103,8 @@ L'analyse du seuil de rentabilité permet de déterminer le point où les revenu
 
 ### 2.3.2 Calcul
 
-``` 
-Seuil de Rentabilité (unités) = \frac{Coûts Fixes}{Prix de Vente par Unité - Coût Variable par Unité}
+```
+Seuil de Rentabilité (unités) = Coûts Fixes / (Prix de Vente par Unité - Coût Variable par Unité)
 ```
 
 #### Exemple
@@ -115,8 +115,8 @@ Supposons :
 - Prix de vente par unité : 10 $
 - Coût variable par unité : 6 $
 
-``` 
-Seuil de Rentabilité = \frac{30 000 $}{10 $ - 6 $} = \frac{30 000 $}{4 $} = 7 500 unités
+```
+Seuil de Rentabilité = 30 000 $ / (10 $ - 6 $) = 30 000 $ / 4 $ = 7 500 unités
 ```
 
 ### 2.3.3 Graphique
@@ -141,7 +141,7 @@ Cette méthode consiste à ajouter une marge bénéficiaire au coût total de pr
 
 Si le coût total de production d'un produit est de 50 $ et que l'entreprise souhaite une marge bénéficiaire de 20 % :
 
-``` 
+```
 Prix de Vente = 50 $ + (50 $ × 0.2) = 50 $ + 10 $ = 60 $
 ```
 
@@ -176,7 +176,7 @@ Les coûts de production doivent être alloués de manière précise pour évite
 
 Supposons une entreprise de fabrication avec deux ateliers : Atelier A et Atelier B. Les coûts indirects totaux sont de 100 000 $. Atelier A utilise 60 % des ressources, tandis qu'Atelier B utilise 40 % :
 
-``` 
+```
 Coût Indirect Atelier A = 100 000 $ × 0.6 = 60 000 $
 Coût Indirect Atelier B = 100 000 $ × 0.4 = 40 000 $
 ```
@@ -192,32 +192,24 @@ Coût Indirect Atelier B = 100 000 $ × 0.4 = 40 000 $
 
 ### 2.6.1 Différenciation des Coûts
 
-Comprendre la différence entre les coûts fixes et variables est crucial pour une gestion efficace des coûts. 
+Comprendre la différence entre les coûts fixes et variables est crucial pour une gestion efficace des coûts.
 
-- **Coûts Fixes :** Restent constants
+- **Coûts Fixes :** Restent constants indépendamment du volume de production (par
 
- indépendamment du niveau de production (ex : loyer, salaires fixes).
-- **Coûts Variables :** Changent en fonction du niveau de production (ex : matières premières, main-d'œuvre directe).
+ exemple, loyer, salaires fixes).
+- **Coûts Variables :** Varient directement avec le volume de production (par exemple, matières premières, main-d'œuvre directe).
 
-### 2.6.2 Exemple Pratique
+### 2.6.2 Importance pour la Prise de Décision
 
-Supposons une entreprise avec des coûts fixes mensuels de 20 000 $ et des coûts variables de 5 $ par unité produite. Si l'entreprise produit 2 000 unités :
-
-``` 
-Coûts Variables Totaux = 5 $ × 2 000 = 10 000 $
-Coûts Totals = Coûts Fixes + Coûts Variables Totals = 20 000 $ + 10 000 $ = 30 000 $
-```
+La distinction entre les coûts fixes et variables permet une meilleure prise de décision concernant la production, les prix et les stratégies de réduction des coûts.
 
 **Tableau 6 : Analyse des Coûts Fixes et Variables**
 
-| Coût Fixe ($) | Coût Variable ($/unité) | Production (unités) | Coût Variable Total ($) | Coût Total ($) |
-|---------------|-------------------------|---------------------|-------------------------|----------------|
-| 20 000        | 5                       | 2 000               | 10 000                  | 30 000         |
+| Type de Coût     | Exemple                                  | Variation avec la Production |
+|------------------|------------------------------------------|------------------------------|
+| Coût Fixe        | Loyer, Salaires fixes                    | Non                          |
+| Coût Variable    | Matières premières, Main-d'œuvre directe | Oui                          |
 
 ## Conclusion
 
-Le calcul des coûts est une étape cruciale dans la gestion financière des entreprises. En comprenant et en appliquant correctement les méthodes de calcul des coûts, les entreprises peuvent prendre des décisions informées sur les prix, la production et les stratégies financières. Les méthodes telles que le coût direct, le coût indirect, le coût complet, ainsi que la répartition des coûts et l'analyse du seuil de rentabilité, permettent d'obtenir une vision claire et précise des coûts et de leur impact sur la rentabilité.
-
----
-
-Ces sections fournissent une base solide pour comprendre les concepts et les techniques liés au calcul des coûts. Pour approfondir vos connaissances, vous pouvez consulter des ressources supplémentaires, participer à des ateliers pratiques et utiliser des logiciels de gestion des coûts pour des simulations et des analyses plus avancées.
+Le calcul des coûts est un élément fondamental de la gestion financière qui permet aux entreprises de comprendre leurs dépenses, de fixer des prix compétitifs et de prendre des décisions éclairées. La maîtrise des différentes méthodes de calcul et de répartition des coûts, ainsi que l'analyse du seuil de rentabilité et des coûts fixes et variables, est essentielle pour optimiser la rentabilité et assurer la pérennité de l'entreprise.
