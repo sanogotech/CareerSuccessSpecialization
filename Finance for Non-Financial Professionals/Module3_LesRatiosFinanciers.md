@@ -176,8 +176,6 @@ La politique de dividende d'une entreprise détermine la proportion des bénéfi
 |------------------|-----------------------|----------------|------------------------------|
 | 50 000           | 30 000                | 20 000         | 40                           |
 | 100 000          | 60 000                | 40 000         | 40                           |
-| 150 000         
-
- | 90 000                | 60 000         | 40                           |
+| 150 000          | 90 000                | 60 000         | 40                           |
 
 Ces sections devraient rendre la présentation des concepts plus accessible et plus claire pour les lecteurs.
